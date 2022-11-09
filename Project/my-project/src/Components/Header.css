@@ -1,0 +1,56 @@
+#like{
+    color: blue;
+    width:95%;
+    height:300px;
+    margin: auto;
+    border: 2px solid green;
+    background-color: #c3f0fa;
+}
+
+#like>h1{
+    font-size: 22px;
+    font-weight: normal;
+    font-family:sans-serif;
+    margin-left: -700px;
+    margin-top: 40px;
+    color: black;
+    
+    
+}
+
+#like>div {
+    width: auto;
+    height: 60px;
+
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 30px;
+    display: flex;
+
+}
+
+#like>div>input {
+    width: 900px;
+    height: 40px;
+    font-size: 18px;
+    margin-left: 270px;
+    border-radius: 30px;
+    padding-left: 20px;
+
+}
+
+#like>div>div {
+    width: 100px;
+    height: 15px;
+
+    margin-top: 2px;
+    margin-left: -103px;
+    border-radius: 30px;
+    padding-top: 25px;
+    background-color: #0fafa7
+}
+
+#like>div>div>h4{
+    margin-top: -18px;
+    color: white;
+}
