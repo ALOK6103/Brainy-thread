@@ -1,13 +1,13 @@
 import React,{useState} from "react"
 import { useEffect } from "react"
-import CategoryCard from "./CategoryCard"
+import ProductCard from "./ProductCard"
 import css from "./Banner.css"
 const getData=async()=>{
-  return fetch(`http://localhost:5000/categories`)
+  return fetch(`http://localhost:5000/product`)
   .then((res)=>res.json())
 }
 
-const Categories=()=>{
+const Product=()=>{
     
     const [banner,setBanner]=useState([])
     
@@ -28,21 +28,17 @@ const Categories=()=>{
     
    
     return (
-
-        <div style={{overflow:"hidden" , marginTop:"30px"  }}>
-            <h1 style={{marginLeft:"-1170px"  , color:"#30363C" , fontFamily:"sans-serif"}}>Shop by Categories</h1>
-
         <div style={{overflow:"hidden"}}>
-        <h1 style={{marginLeft:"-1140px"}}>Shop by Categories</h1>
-
+            <h1 style={{marginLeft:"-920px"  , color:"#30363C" , fontFamily:"sans-serif"}}>Supradyn Daily Multivitamin Tablets</h1>
         <div id="img" style={{ overflow:"auto", display:"flex" , width:"95%", margin:"auto" , gap:"20px" , marginTop:"20px" ,}} >
-         
+
+
             {banner.map((el)=>{
-                return <CategoryCard  key={el.id} imageUrl={el.imageUrl} name={el.name} discountText={el.discountText}></CategoryCard>
+                return <ProductCard  key={el.id} url={el.url} name={el.name} price={el.price}></ProductCard>
             })}
         </div>
         </div>
     )
 }
 
-export default Categories
+export default Product
