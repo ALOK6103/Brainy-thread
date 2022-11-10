@@ -510,6 +510,223 @@
           "face": "back",
           "sequence": "7"
         }
+      ],
+      "damImages1": [
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/X65118/liveasy-essentials-mens-diabetic-orthopedic-slippers-brown-size-uk-7-us-8-2-1666089792.jpg",
+          "face": "front",
+          "sequence": "2"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/X65118/liveasy-essentials-mens-diabetic-orthopedic-slippers-brown-size-uk-7-us-8-6.1-1666089790.jpg",
+          "face": "side",
+          "sequence": "6.1"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/X65118/liveasy-essentials-mens-diabetic-orthopedic-slippers-brown-size-uk-7-us-8-6.2-1666089784.jpg",
+          "face": "side",
+          "sequence": "6.2"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/X65118/liveasy-essentials-mens-diabetic-orthopedic-slippers-brown-size-uk-7-us-8-6.3-1666089788.jpg",
+          "face": "side",
+          "sequence": "6.3"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/X65118/liveasy-essentials-mens-diabetic-orthopedic-slippers-brown-size-uk-7-us-8-6.4-1666089786.jpg",
+          "face": "side",
+          "sequence": "6.4"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/X65118/liveasy-essentials-mens-diabetic-orthopedic-slippers-brown-size-uk-7-us-8-6.5-1666089794.jpg",
+          "face": "side",
+          "sequence": "6.5"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/X65118/liveasy-essentials-mens-diabetic-orthopedic-slippers-brown-size-uk-7-us-8-7-1667538945.jpg",
+          "face": "back",
+          "sequence": "7"
+        }
+      ],
+      "cream": [
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-2-1667393582.jpg",
+          "face": "front",
+          "sequence": "2"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-6.1-1667393053.jpg",
+          "face": "side",
+          "sequence": "6.1"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-6.2-1667393056.jpg",
+          "face": "side",
+          "sequence": "6.2"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-6.3-1667393000.jpg",
+          "face": "side",
+          "sequence": "6.3"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-6.4-1667393343.jpg",
+          "face": "side",
+          "sequence": "6.4"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-6.5-1667393241.jpg",
+          "face": "side",
+          "sequence": "6.5"
+        }
+      ],
+      "vitaminBC": [
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-1-1654077406.jpg",
+          "face": "box-front",
+          "sequence": "1"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2-1654077421.jpg",
+          "face": "front",
+          "sequence": "2"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2.1-1641398864.jpg",
+          "face": "front",
+          "sequence": "2.1"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2.2-1641398844.jpg",
+          "face": "front",
+          "sequence": "2.2"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-3-1654077385.jpg",
+          "face": "combo",
+          "sequence": "3"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.1-1641398853.jpg",
+          "face": "side",
+          "sequence": "6.1"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.2-1641398847.jpg",
+          "face": "side",
+          "sequence": "6.2"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.3-1641398850.jpg",
+          "face": "side",
+          "sequence": "6.3"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.4-1641398861.jpg",
+          "face": "side",
+          "sequence": "6.4"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-7-1641398858.jpg",
+          "face": "back",
+          "sequence": "7"
+        }
+      ],
+      "types":[
+        {
+            "url":"https://cms-contents.pharmeasy.in/homepage_top_categories_images/10dfe8c8aa7-HealthCheckups.jpg?dim=256x0",
+            "id":"1"
+        },
+        {
+            "url":"https://cms-contents.pharmeasy.in/homepage_top_categories_images/69588f95674-Diabetes.jpg?dim=256x0",
+            "id":"2"
+        },
+        {
+            "url":"https://cms-contents.pharmeasy.in/homepage_top_categories_images/6c5479c6c0c-Vitamins.jpg?dim=256x0",
+            "id":"3"
+        },
+        {
+            "url":"https://cms-contents.pharmeasy.in/homepage_top_categories_images/c507b2563fd-thyroid.png?dim=256x0",
+            "id":"3"
+        },
+        {
+            "url":"https://cms-contents.pharmeasy.in/homepage_top_categories_images/eeb3fe3251f-WomenCare.jpg?dim=256x0",
+            "id":"4"
+        },
+        {
+            "url":"https://cms-contents.pharmeasy.in/homepage_top_categories_images/a953829ca96-Heart.jpg?dim=256x0",
+            "id":"5"
+        },
+        {
+            "url":"https://cms-contents.pharmeasy.in/homepage_top_categories_images/94616a36a9a-Lifestyle.jpg?dim=256x0",
+            "id":"6"
+        },
+        {
+            "url":"https://cms-contents.pharmeasy.in/homepage_top_categories_images/355e9b77fb5-FeverInfection.jpg?dim=256x0",
+            "id":"7"
+        },
+        {
+            "url":"https://cms-contents.pharmeasy.in/homepage_top_categories_images/6e78a241e48-CovidCare.jpg?dim=256x0",
+            "id":"8"
+        },
+        {
+            "url":"https://cms-contents.pharmeasy.in/homepage_top_categories_images/64444851b5e-BoneHealth.jpg?dim=256x0",
+            "id":"9"
+        }
+      ],
+      "product":[
+        {
+            "url":"https://cdn01.pharmeasy.in/dam/products_otc/V97029/drools-absolute-calcium-bone-pouch-190g-2-1641794716.jpg",
+            "name":"Drools Absolute Calcium",
+            "price":89
+        },
+        {
+            "url":"https://cdn01.pharmeasy.in/dam/products_otc/A91955/dogz-dudez-neem-shield-spray-tick-flea-repellent-200ml-2-1641541609.jpg",
+            "name":"Dogz & Dudez Neem Spray",
+            "price":122
+        },
+        {
+            "url":"https://cdn01.pharmeasy.in/dam/products_otc/W43131/mee-mee-soft-comb-brush-set-blue-2-1644228634.jpg",
+            "name":"Mee Mee Soft Combo Brush",
+            "price":119
+        },
+        {
+            "url":"https://cdn01.pharmeasy.in/dam/products_otc/J44298/petvit-tick-repellent-oil-spray-paraben-free-ph-balance-for-all-breed-dog-cat-100-ml-2-1639118730.jpg",
+            "name":"Petvil Tick Oil",
+            "price":123
+        },
+        {
+            "url":"https://cdn01.pharmeasy.in/dam/products_otc/V90254/petvit-nose-and-paw-wipes-for-eliminates-bacteria-virus-fungus-odor-for-all-age-group-50-wipes-2-1639118438.jpg",
+            "name":"Petvil Nose And Paw Wipes",
+            "price":108
+        },
+        {
+            "url":"https://cdn01.pharmeasy.in/dam/products_otc/B98716/petvit-odor-remover-spray-with-lavender-eliminate-bad-breath-ph-balance-for-all-breed-dog-cat100ml-2-1639118388.jpg",
+            "name":"Lavender Spray",
+            "price":102
+        },
+        {
+            "url":"https://cdn01.pharmeasy.in/dam/products_otc/A50234/captain-zack-ticket-to-fleadom-waterless-shampoo-spray-for-dogs-250-ml-2-1641794240.jpg",
+            "name":"Fleadom Waterless",
+            "price":206
+        },
+        {
+            "url":"https://cdn01.pharmeasy.in/dam/products_otc/L23687/pawcloud-stainless-steel-dog-bowl-medium-anti-skid-dog-feeding-bowl-2-1641793282.jpg",
+            "name":"Steel Dog Bowl",
+            "price":165
+        },
+        {
+            "url":"https://cdn01.pharmeasy.in/dam/products_otc/J77619/dogz-dudez-oatmeal-itchgone-200-ml-2-1641792642.jpg",
+            "name":"Dogz & Dundez Oatmeal",
+            "price":132
+        },
+        {
+            "url":"https://cdn01.pharmeasy.in/dam/products_otc/T70230/petvit-anti-itch-shampoo-with-tea-tree-oil-lemon-grass-oil-for-all-breed-dog-cat-200ml-2-1639118633.jpg",
+            "name":"Petvil Anti Itch Shampoo",
+            "price":118
+        }
       ]
+
+      
       
 }

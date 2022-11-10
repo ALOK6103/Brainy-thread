@@ -28,13 +28,13 @@ const Categories=()=>{
     
    
     return (
-        <div style={{overflow:"hidden"}}>
-            <h1 style={{marginLeft:"-1130px"}}>Shop by Categories</h1>
+        <div style={{overflow:"hidden" , marginTop:"30px"  }}>
+            <h1 style={{marginLeft:"-1170px"  , color:"#30363C" , fontFamily:"sans-serif"}}>Shop by Categories</h1>
         <div id="img" style={{ overflow:"auto", display:"flex" , width:"95%", margin:"auto" , gap:"20px" , marginTop:"20px" ,}} >
 
 
             {banner.map((el)=>{
-                return <CategoryCard  key={el.id} imageUrl={el.imageUrl} name={el.name}></CategoryCard>
+                return <CategoryCard  key={el.id} imageUrl={el.imageUrl} name={el.name} discountText={el.discountText}></CategoryCard>
             })}
         </div>
         </div>

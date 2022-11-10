@@ -1,13 +1,13 @@
 import React,{useState} from "react"
 import { useEffect } from "react"
-import BannerCard from "./BannerCard"
+import ProductCard from "./ProductCard"
 import css from "./Banner.css"
 const getData=async()=>{
-  return fetch(`http://localhost:5000/LabelBanner`)
+  return fetch(`http://localhost:5000/product`)
   .then((res)=>res.json())
 }
 
-const Banner=()=>{
+const Product=()=>{
     
     const [banner,setBanner]=useState([])
     
@@ -28,16 +28,17 @@ const Banner=()=>{
     
    
     return (
-        <div style={{overflow:"hidden" , marginTop:"30px"}}>
+        <div style={{overflow:"hidden"}}>
+            <h1 style={{marginLeft:"-920px"  , color:"#30363C" , fontFamily:"sans-serif"}}>Supradyn Daily Multivitamin Tablets</h1>
         <div id="img" style={{ overflow:"auto", display:"flex" , width:"95%", margin:"auto" , gap:"20px" , marginTop:"20px" ,}} >
 
 
             {banner.map((el)=>{
-                return <BannerCard  key={el.id} image={el.image} ></BannerCard>
+                return <ProductCard  key={el.id} url={el.url} name={el.name} price={el.price}></ProductCard>
             })}
         </div>
         </div>
     )
 }
 
-export default Banner
+export default Product

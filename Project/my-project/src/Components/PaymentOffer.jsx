@@ -1,13 +1,13 @@
 import React,{useState} from "react"
 import { useEffect } from "react"
-import BannerCard from "./BannerCard"
+import PaymentOfferCard from "./PaymentOfferCard"
 import css from "./Banner.css"
 const getData=async()=>{
-  return fetch(`http://localhost:5000/LabelBanner`)
+  return fetch(`http://localhost:5000/paymentOfferBanner`)
   .then((res)=>res.json())
 }
 
-const Banner=()=>{
+const PaymentOffer=()=>{
     
     const [banner,setBanner]=useState([])
     
@@ -29,15 +29,16 @@ const Banner=()=>{
    
     return (
         <div style={{overflow:"hidden" , marginTop:"30px"}}>
+            <h1 style={{marginLeft:"-1230px"  , color:"#30363C" , fontFamily:"sans-serif"}}>Payment Offers</h1>
         <div id="img" style={{ overflow:"auto", display:"flex" , width:"95%", margin:"auto" , gap:"20px" , marginTop:"20px" ,}} >
 
 
             {banner.map((el)=>{
-                return <BannerCard  key={el.id} image={el.image} ></BannerCard>
+                return <PaymentOfferCard  key={el.id} image={el.image} ></PaymentOfferCard>
             })}
         </div>
         </div>
     )
 }
 
-export default Banner
+export default PaymentOffer
