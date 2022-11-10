@@ -6,7 +6,7 @@ const CategoryCard=({imageUrl,name})=>{
     }
 
     return <div >
-        <img src={imageUrl} alt="pic" style={{height:"250px" , width:"450px" ,borderRadius:"20px" }}  onClick={handleClick} />
+        <img src={imageUrl} alt="pic" style={{height:"200px" , width:"250px" ,borderRadius:"20px" ,boxShadow: "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px" }}  onClick={handleClick} />
         <p>{name}</p>
         
        

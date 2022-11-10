@@ -29,9 +29,9 @@ const Categories=()=>{
    
     return (
         <div style={{overflow:"hidden"}}>
+        <h1 style={{marginLeft:"-1140px"}}>Shop by Categories</h1>
         <div id="img" style={{ overflow:"auto", display:"flex" , width:"95%", margin:"auto" , gap:"20px" , marginTop:"20px" ,}} >
-
-
+         
             {banner.map((el)=>{
                 return <CategoryCard  key={el.id} imageUrl={el.imageUrl} name={el.name}></CategoryCard>
             })}
