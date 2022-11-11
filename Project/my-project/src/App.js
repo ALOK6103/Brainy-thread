@@ -10,11 +10,19 @@ import LiveEasy from './Components/LiveEasy';
 import VitaminBC from './Components/VitaminBC';
 import LabTest from './Components/LabTest';
 import Product from "./Components/Product"
+import Navbar from './Nav/Navbar';
+import AllRout from './Components/AllRout';
+import Footer from './Components/Footer';
 
 function App() {
   return (
     <div className="App">
-      <Header/>
+       <div>
+       <Navbar />
+      <AllRout />
+       </div>
+       <div>
+       <Header/>
       <Banner />
       <Categories />
       <MultiVitamin/>
@@ -23,7 +31,11 @@ function App() {
       <PaymentOffer />
       <LiveEasy />
       <LabTest />
-      <Product />
+      <Footer />
+       </div>
+      
+      
+      
     </div>
   );
 }

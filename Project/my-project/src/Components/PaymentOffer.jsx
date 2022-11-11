@@ -29,7 +29,7 @@ const PaymentOffer=()=>{
    
     return (
         <div style={{overflow:"hidden" , marginTop:"30px"}}>
-            <h1 style={{marginLeft:"-1230px"  , color:"#30363C" , fontFamily:"sans-serif"}}>Payment Offers</h1>
+            <h1 style={{marginLeft:"-1250px"  , color:"#30363C" , fontFamily:"sans-serif" , fontSize:"26px"}}>Payment Offers</h1>
         <div id="img" style={{ overflow:"auto", display:"flex" , width:"95%", margin:"auto" , gap:"20px" , marginTop:"20px" ,}} >
 
 

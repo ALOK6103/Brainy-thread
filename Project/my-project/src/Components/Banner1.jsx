@@ -29,7 +29,7 @@ const Banner1=()=>{
    
     return (
         <div style={{overflow:"hidden" , marginTop:"30px"}}>
-            <h1 style={{marginLeft:"-1190px" , color:"#30363C" , fontFamily:"sans-serif"}}>Offers Just for You</h1>
+            <h1 style={{marginLeft:"-1210px" , color:"#30363C" , fontFamily:"sans-serif" , fontSize:"26px"}}>Offers Just for You</h1>
         <div id="img" style={{ overflow:"auto", display:"flex" , width:"95%", margin:"auto" , gap:"20px" , marginTop:"20px" ,}} >
 
 

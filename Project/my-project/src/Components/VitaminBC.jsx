@@ -29,7 +29,7 @@ const VitaminBC=()=>{
    
     return (
         <div style={{overflow:"hidden" , marginTop:"30px"}}>
-            <h1 style={{marginLeft:"-450px"  , color:"#30363C" , fontFamily:"sans-serif"}}>Becozym C Forte ( Vitamin B Complex + Biotin + Vitamin C ) Tablets</h1>
+            <h1 style={{marginLeft:"-600px"  , color:"#30363C" , fontFamily:"sans-serif" , fontSize:"26px"}}>Becozym C Forte ( Vitamin B Complex + Biotin + Vitamin C ) Tablets</h1>
         <div id="img" style={{ overflow:"auto", display:"flex" , width:"95%", margin:"auto" , gap:"20px" , marginTop:"20px" ,}} >
 
 
