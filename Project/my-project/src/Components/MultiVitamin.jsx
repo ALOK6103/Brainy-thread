@@ -29,7 +29,7 @@ const MultiVitamin=()=>{
    
     return (
         <div style={{overflow:"hidden"}}>
-            <h1 style={{marginLeft:"-920px"  , color:"#30363C" , fontFamily:"sans-serif"}}>Supradyn Daily Multivitamin Tablets</h1>
+            <h1 style={{marginLeft:"-1000px"  , color:"#30363C" , fontFamily:"sans-serif" , fontSize:"26px"}}>Supradyn Daily Multivitamin Tablets</h1>
         <div id="img" style={{ overflow:"auto", display:"flex" , width:"95%", margin:"auto" , gap:"20px" , marginTop:"20px" ,}} >
 
 

@@ -1,11 +1,13 @@
 import Product from "./Product"
+import { Link } from "react-router-dom"
 const CategoryCard=({imageUrl,name,discountText})=>{
     
     const handleClick=(el)=>{
         //console.log(el)
-      <a><Product /></a> 
+      
         //<a src="https://www.cricbuzz.com/"></a>
-        console.log("hello")
+        <Link><Product></Product></Link>
+        console.log(Product)
         
     }
 
@@ -15,8 +17,7 @@ const CategoryCard=({imageUrl,name,discountText})=>{
         <p >{name}</p>
         <h4>{discountText}</h4>
 
-        <img src={imageUrl} alt="pic" style={{height:"200px" , width:"250px" ,borderRadius:"20px" ,boxShadow: "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px" }}  onClick={handleClick} />
-        <p>{name}</p>
+        
 
         
        

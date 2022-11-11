@@ -29,7 +29,7 @@ const LiveEasy=()=>{
    
     return (
         <div style={{overflow:"hidden" , marginTop:"30px"}}>
-            <h1 style={{marginLeft:"-1150px"  , color:"#30363C" , fontFamily:"sans-serif"}}>LiveEasy Essentials</h1>
+            <h1 style={{marginLeft:"-1200px"  , color:"#30363C" , fontFamily:"sans-serif" , fontSize:"26px"}}>LiveEasy Essentials</h1>
         <div id="img" style={{ overflow:"auto", display:"flex" , width:"95%", margin:"auto" , gap:"20px" , marginTop:"20px" ,}} >
 
 

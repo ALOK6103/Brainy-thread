@@ -30,7 +30,7 @@ const LabTest=()=>{
     return (
         <div style={{backgroundColor:"#F4F8FF" ,margin:"auto" , marginTop:"30px" ,width:"95%"}}>
         <div>
-        <h1 style={{marginLeft:"-1020px"  , color:"#30363C" , fontFamily:"sans-serif"}}>Lab Tests by Health Concern</h1>
+        <h1 style={{marginLeft:"-1090px"  , color:"#30363C" , fontFamily:"sans-serif" , fontSize:"26px"}}>Lab Tests by Health Concern</h1>
         </div>
        
             <div style={{display:"flex" , gap:"150px" ,marginLeft:"60px" }}>
@@ -75,6 +75,15 @@ const LabTest=()=>{
             </div>
             <div>
             <img src="https://assets.pharmeasy.in/apothecary/_next/static/media/PlusFamily.22677720.png?dim=1440x0" style={{marginTop:"-22px" , marginLeft:"950px"}}></img>
+            </div>
+            <div>
+            <img src="https://assets.pharmeasy.in/apothecary/images/downloadBanner.webp?dim=1440x0&q=100a" style={{margin:"auto", marginTop:"30px" , marginLeft:"25px" ,width:"95%"}}></img>
+            </div>
+            <div style={{marginTop:"-200px"}}>
+                <h1 style={{fontFamily:"sans-serif" ,color:"#30363C"}}>Simplifying
+                    Healthcare <br></br>
+                    Impacting Lives
+                </h1>
             </div>
          
         </div>
