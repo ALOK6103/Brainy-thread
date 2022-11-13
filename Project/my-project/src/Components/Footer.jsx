@@ -2,7 +2,7 @@
 
 function Footer(){
     return (
-        <div style={{display:"flex" ,width:"95%" , border:"1px solid red" , margin:"auto" ,marginTop:"450px" , gap:"300px" , backgroundColor:"#EEF4FF" ,marginBottom:"20px" }}>
+        <div style={{display:"flex" ,width:"95%"  , margin:"auto" ,marginTop:"450px" , gap:"300px" , backgroundColor:"#EEF4FF" ,marginBottom:"20px" }}>
             <div style={{ marginLeft:"200px" }}>
                 <h4>Company</h4>
                 <p>About Us</p>
